@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- https://www.profileme.dev/ -->
+
 Hi 👋 My name is Silvere Cawet
 ==============================
 
