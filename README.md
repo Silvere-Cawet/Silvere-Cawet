@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Silvere Cawet
 =============
 
-Software Engineer - Full-Stack
+Software Engineer - Full Stack
 ------------------------------
 
 <!-- * ✉️  You can contact me at [cwt.silvere@gmail.com](mailto:cwt.silvere@gmail.com) -->
