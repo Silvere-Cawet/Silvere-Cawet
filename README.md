@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 
 <!-- https://www.profileme.dev/ -->
 
-Hi 👋 My name is Silvere Cawet
-==============================
+Silvere Cawet
+=============
 
-Full-Stack Engineer
--------------------
+Software Engineer - Full-Stack
+------------------------------
 
-* ✉️  You can contact me at [cwt.silvere@gmail.com](mailto:cwt.silvere@gmail.com)
-* 🤝  I'm open to collaborating on Linkedin
+<!-- * ✉️  You can contact me at [cwt.silvere@gmail.com](mailto:cwt.silvere@gmail.com) -->
+<!-- * 🤝  I'm open to collaborating on Linkedin -->
 
 ### Skills
 
